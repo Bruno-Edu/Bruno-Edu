@@ -1,4 +1,4 @@
-### Oi, oi ! Eu sou o Bruno 👋
+### Oi, oi! Eu sou o Bruno 👋
 
 <!--
 **Bruno-Edu/Bruno-Edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
