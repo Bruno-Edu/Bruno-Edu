@@ -25,8 +25,8 @@
 <div align="center">
  
 <a href="https://github.com/Bruno-Edu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Edu&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Edu&layout=compact&langs_count=7&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Edu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </div>
 ![Snake animation](https://github.com/Bruno-Edu/Bruno-Edu/blob/output/github-contribution-grid-snake.svg)
