@@ -9,7 +9,7 @@
  
  - *Me aventurando por Desenvolvimento Web, em especial por Front End 💙* 
  
- - *Amante da educação e de compartilhar conhecimento* 
+ - *Buscando aprender e aprendendo compartilhando conhecimento* 
 
 
 ## 🔮 Minha Stack
